@@ -4,9 +4,6 @@
 [submodule "crazyradio-firmware"]
 	path = crazyradio-firmware
 	url = git@github.com:blandry/crazyradio-firmware.git
-[submodule "crazyflie-clients-python"]
-	path = crazyflie-clients-python
-	url = git@github.com:blandry/crazyflie-clients-python.git
 [submodule "crazyflie-firmware-2"]
 	path = crazyflie-firmware-2
 	url = https://github.com/peteflorence/crazyflie-firmware-2.git
@@ -16,6 +13,3 @@
 [submodule "crazyflie-CAD"]
 	path = crazyflie-CAD
 	url = https://github.com/peteflorence/crazyflie-CAD
-[submodule "crazyflie-firmware-1"]
-	path = crazyflie-firmware-1
-	url = git@github.com:blandry/crazyflie-firmware-1.git
